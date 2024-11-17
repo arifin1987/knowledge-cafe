@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "cover": "https://img.freepik.com/free-vector/vector-horizontal-brochure_1409-844.jpg?t=st=1731647575~exp=1731651175~hmac=7abc7b3e660a198a246b9f9b551b4dce275351960ba357b5066346252dc2c3a7&w=740",
+    "title": "Understanding JSON for Beginners",
+    "author_img": "https://img.freepik.com/free-photo/artist-white_1368-3546.jpg?t=st=1731649556~exp=1731653156~hmac=8e1bcc4719c07e90cf8dc1a043d7d58b14fd201ddd46266c7222b2a7c703cf0a&w=740",
+    "author": "Jane Doe",
+    "posted_date": "2023-10-15",
+    "reading_time": 5,
+    "hashtags": ["#JSON", "#Coding", "#Programming", "#Beginners"]
+  },
+  {
+    "id": "2",
+    "cover": "https://img.freepik.com/free-vector/vector-horizontal-brochure_1409-844.jpg?t=st=1731647575~exp=1731651175~hmac=7abc7b3e660a198a246b9f9b551b4dce275351960ba357b5066346252dc2c3a7&w=740",
+    "title": "Advanced JavaScript Techniques",
+    "author_img": "https://img.freepik.com/free-photo/artist-white_1368-3546.jpg?t=st=1731649556~exp=1731653156~hmac=8e1bcc4719c07e90cf8dc1a043d7d58b14fd201ddd46266c7222b2a7c703cf0a&w=740",
+    "author": "John Smith",
+    "posted_date": "2023-09-12",
+    "reading_time": 10,
+    "hashtags": ["#JavaScript", "#WebDevelopment", "#Coding", "#Tips"]
+  },
+  {
+    "id": "3",
+    "cover": "https://img.freepik.com/free-vector/vector-horizontal-brochure_1409-844.jpg?t=st=1731647575~exp=1731651175~hmac=7abc7b3e660a198a246b9f9b551b4dce275351960ba357b5066346252dc2c3a7&w=740",
+    "title": "Exploring Python for Data Science",
+    "author_img": "https://img.freepik.com/free-photo/artist-white_1368-3546.jpg?t=st=1731649556~exp=1731653156~hmac=8e1bcc4719c07e90cf8dc1a043d7d58b14fd201ddd46266c7222b2a7c703cf0a&w=740",
+    "author": "Emily Clark",
+    "posted_date": "2023-08-25",
+    "reading_time": 8,
+    "hashtags": ["#Python", "#DataScience", "#MachineLearning", "#AI"]
+  },
+  {
+    "id": "4",
+    "cover": "https://img.freepik.com/free-vector/vector-horizontal-brochure_1409-844.jpg?t=st=1731647575~exp=1731651175~hmac=7abc7b3e660a198a246b9f9b551b4dce275351960ba357b5066346252dc2c3a7&w=740",
+    "title": "A Guide to Responsive Web Design",
+    "author_img": "https://img.freepik.com/free-photo/artist-white_1368-3546.jpg?t=st=1731649556~exp=1731653156~hmac=8e1bcc4719c07e90cf8dc1a043d7d58b14fd201ddd46266c7222b2a7c703cf0a&w=740",
+    "author": "Michael Lee",
+    "posted_date": "2023-07-20",
+    "reading_time": 6,
+    "hashtags": ["#WebDesign", "#CSS", "#ResponsiveDesign", "#Frontend"]
+  },
+  {
+    "id": "5",
+    "cover": "https://img.freepik.com/free-vector/vector-horizontal-brochure_1409-844.jpg?t=st=1731647575~exp=1731651175~hmac=7abc7b3e660a198a246b9f9b551b4dce275351960ba357b5066346252dc2c3a7&w=740",
+    "title": "Getting Started with Cloud Computing",
+    "author_img": "https://img.freepik.com/free-photo/artist-white_1368-3546.jpg?t=st=1731649556~exp=1731653156~hmac=8e1bcc4719c07e90cf8dc1a043d7d58b14fd201ddd46266c7222b2a7c703cf0a&w=740",
+    "author": "Sarah Wilson",
+    "posted_date": "2023-06-18",
+    "reading_time": 7,
+    "hashtags": ["#CloudComputing", "#AWS", "#Azure", "#Technology"]
+  }
+]
